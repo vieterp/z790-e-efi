@@ -809,7 +809,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>Intel Core i7-13700K</string>
+				<string>Intel Core i9-13900KF</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
